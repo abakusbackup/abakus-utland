@@ -8,3 +8,5 @@ categories: abakus update
 Hei, og velkommen til Abakus Utland.
 
 Mer innhold kommer _snart_. Stay tuned!
+
+Gjør en endring
