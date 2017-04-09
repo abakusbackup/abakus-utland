@@ -20,6 +20,8 @@ Den øverste delen av dokumentet er metadata om innlegget, som tittel og dato de
 
 Alt under `---` blir altså innholdet i innlegget.
 
+`categories` er en oppramsing, separert av mellomrom, av hvilke kategorier innlegget tilhører. Disse kategoriene kan bli brukt til å sortere innlegg. Se ellers under tema i denne filen. Der finner du tema (utseender) på en Jekyll-blogg, som bruker disse kategoriene til å sortere innhold.
+
 ## Legg til en ny side
 Dersom du ønsker å opprette en ny side, er det bare å opprette en ny fil i rotmappen til dette prosjektet. Gi den et navn som har noe å gjøre med hva siden skal handle om, for eksempel `example-page.md`.
 
