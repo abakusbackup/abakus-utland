@@ -9,4 +9,4 @@ Hei, og velkommen til Abakus Utland.
 
 Mer innhold kommer _snart_. Stay tuned!
 
-![Abakus logo](/images/abakus-logo.png)
+![Abakus logo](/images/abakus_logo.png)
