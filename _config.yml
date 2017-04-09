@@ -16,7 +16,8 @@
 title: Abakus Utland
 email: utland@abakus.no
 description: > # this means to ignore newlines until "baseurl:"
-    Abakus Utland er initativ fra konmiteen backup i Abakus, for å informere Abakus' medlemmer om mulighetene for utveksling.
+    Abakus Utland er initativ fra komiteen backup i Abakus, for å informere Abakus' medlemmer om mulighetene for utveksling. 
+    Har du lyst til å skrive om oppholdet ditt, eller vil du tipse oss om noen som er utenlands? Ta kontakt!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: abakus_ntnu
