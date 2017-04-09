@@ -41,7 +41,7 @@ Den øverste delen av dokumentet er metadata om siden, som tittel og adressen (`
 Alt under `---` blir altså innholdet på siden.
 
 ## Endre tema (utseendet)
-Tema settes ved hjelp av `_config.yml`. Der er det et felt `theme: minima`, hvor altså den siste delen (her `minima`) sier hvilke tema siden bruker. Man kan finne mange temaer på [Jekyll Themes](http://jekyllthemes.org/).
+Tema settes ved hjelp av `_config.yml`. Der er det et felt `theme: minima`, hvor altså den siste delen (her `minima`) sier hvilke tema siden bruker. Man kan finne mange temaer på [Jekyll Themes](http://jekyllthemes.org/). GitHub har ikke støtte for alle temaer ut av boksen, så noen må installeres. Det er bare å laste ned temaet, og legge inn her. Du kan lese hvordan [her](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site/).
 
 ## Andre filer
 * `CNAME` sørger for at http://utland.abakus.no peker til denne bloggen
