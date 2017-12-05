@@ -18,7 +18,7 @@ Hei bloggen! Målfrid Henden Aaraas og Aksel Vincent Berg fra henholdsvis 3. Dat
 I løpet av det siste halvåret har mediers søkelys vært rettet mot den katalanske regionshovedstaden. Byen ble i august rammet av et terrorangrep, men det er først og fremst uavhengighetsvissvasset som i senere tid har hatt hovedfokus. Er det noe spanjolene (katalanerne(?)) kan er det å samle den gemene hop for å demonstrere. Det gikk faktisk så langt at blant annet tyske myndigheter frarådet å reise hit. For vår del har ikke dette påvirket hverdagen i større grad enn et par ekstra fridager som ble tatt imot med åpne armer. 
 
 <p align="center">
-  <img src="/images/barcelona2017/2.png" width="400"><br>
+  <img src="/images/barcelona2017/2.png" width="600"><br>
  <br><em>Nasjonaldagen til Catalonia, 11. September, som visstnok samlet 1 million mennesker.</em> 
 </p>
 
@@ -30,7 +30,7 @@ En potensiell ulempe ved å studere i en såpass stor by er at man risikerer at 
 For Målfrid som dro på utveksling året før det som er vanlig består fagplanen av bachelorfag. I praksis betyr dette at mer eller mindre alle fag foregår på spansk, ofte krydret med litt katalansk. Ettersom jeg på forhånd ikke kunne særlig flere gloser enn “Hola” og “Gracias” ble store deler av sommeren brukt til intensivkurs. Dette har gått over all forventning, takket være snille katalanere og forelesere som lar meg gjøre prøver på engelsk i ny og ne.
 
 <p align="center">
-  <img src="/images/barcelona2017/3.png" width="400">
+  <img src="/images/barcelona2017/3.png" width="500">
  <br><em>Utlært i Spansk :’)</em> 
 </p>
 
@@ -40,37 +40,37 @@ Selv om UPC setter ketchupeffekten ut i praksis er arbeidsmengden tolerabel for 
 For kalenderen i Spania består av et antall feriedager vi er uvant med på Gløs, noe som åpner muligheter for utflukter. Den iberiske halvøy tilbyr et variert landskap som resulterer i et stort utvalg turmuligheter. Erasmus arrangerer en rekke utflukter både innen- og utenlands til en rimelig penge.
 
 <p align="center">
-  <img src="/images/barcelona2017/4.png" width="400">
+  <img src="/images/barcelona2017/4.png" width="600">
   <br><em>Fikk endelig sett <span style="text-decoration: line-through;">MSN</span> Messi, Suarez og Paulinho!</em> 
 </p>
 
 I tillegg er det kun din egen fantasi og initiativ som setter grenser for hvor man kan reise. Vi tok for eksempel toget til til en liten landsby nær grensen til Frankrike og bodde hjemme hos en person via Airbnb, for så å gå i mektige Pyrineene dagen etterpå, et aldri så lite eventyr!
 
 <p align="center">
-  <img src="/images/barcelona2017/5.png" width="400"><br>
-  <img src="/images/barcelona2017/6.png" width="400">
+  <img src="/images/barcelona2017/5.png" width="600"><br>
+  <img src="/images/barcelona2017/6.png" width="600">
  <br><em>Kødder på fjellgrensen til Frankrike.</em> 
 </p>
 
 <p align="center">
-  <img src="/images/barcelona2017/7.png" width="400">
+  <img src="/images/barcelona2017/7.png" width="600">
  <br><em>Andorra la Vella. Det er kulere å ha vært der enn å være der.</em> 
 </p>
 
 <p align="center">
-  <img src="/images/barcelona2017/8.png" width="400">
+  <img src="/images/barcelona2017/8.png" width="600">
  <br><em>Strendene og promenaden er helt krem.</em> 
 </p>
 
 <p align="center">
-  <img src="/images/barcelona2017/9.png" width="400">
+  <img src="/images/barcelona2017/9.png" width="600">
  <br><em>“Balcony of Catalunia”.</em> 
 </p>
 
 Videre arrangeres det fester stort sett hele tiden, der hver dag har sitt eget tema. FUCKIN’ MONDAY og Tasty Tuesdays - Erasmus Free Dinner, Open Bar & Party er blant aktivitetene man kan ta del i dersom man ønsker en fornuftig start på uken. Ettersom klubbene åpner dørene klokken 3 og stenger 7 kan man trygt vinke farvel til all potensiell produktivitet dagen derpå i det man bestiller en ny VR med et skjevt smil om munn.
 
 <p align="center">
-  <img src="/images/barcelona2017/10.png" width="400">
+  <img src="/images/barcelona2017/10.png" width="600">
  <br><em>Søndagsturen gikk denne gangen til Montserrat.</em> 
 </p>
 
@@ -78,21 +78,21 @@ Videre arrangeres det fester stort sett hele tiden, der hver dag har sitt eget t
 Spania er ineffektivitetens land, der alt er nødt ta mye lenger tid enn nødvendig. Hvis man har sett Zootopia er dovendyrene bak kassen en meget god representasjon på den spanske arbeidsmoralen, selvsagt uten unntak. I kantinen på universitetet der man i utgangspunktet forventer å få kjøpt lunsj har de blant annet siesta fra 12-14. Ironisk nok er Catalonias selværklærte produktivitet et av hovedargumentene deres for frigjørelse.
 
 <p align="center">
-  <img src="/images/barcelona2017/11.png" width="400">
+  <img src="/images/barcelona2017/11.png" width="600">
  <br><em>Aksel.</em> 
 </p>
 
 Ellers er en av hovedgrunnene for å dra på utveksling at man møter et stort mangfold av mennesker fra alle verdens kriker og kroker. Dette gjør at man blir eksponert for annerledes  kulturer og tankegang. Man lærer blant annet at alle Colombianere konsekvent ligner på han taxi-sjåføren i Narcos og at Amerikanere er så høylytte at man har øresus i mange dager etterpå. Nordmenn finnes også, i form av solbrente livsnytere samt andre studenter fra både NTNU og andre universitet/høgskoler.
 
 <p align="center">
-  <img src="/images/barcelona2017/12.png" width="400">
+  <img src="/images/barcelona2017/12.png" width="600">
  <br><em>Ikke ueffen utsikt fra balkongen.</em> 
 </p>
 
 Men fra spøk til revolver så er kanskje noe av det viktigste man erfarer at midt oppe i alle ulikheter man tilsynelatende har, finnes det også overraskende mange likheter. Det er faktisk veldig gøy å knytte bekjentskap på tvers av landegrenser, og man har åpenbart veldig godt av det også.
 
 <p align="center">
-  <img src="/images/barcelona2017/13.png" width="400">
+  <img src="/images/barcelona2017/13.png" width="600">
  <br><em>Fredagstasso med kollektivet. De norske verdiene holdes hellig.</em> 
 </p>
 
