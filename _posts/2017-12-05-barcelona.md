@@ -40,14 +40,14 @@ Selv om UPC setter ketchupeffekten ut i praksis er arbeidsmengden tolerabel for 
 For kalenderen i Spania består av et antall feriedager vi er uvant med på Gløs, noe som åpner muligheter for utflukter. Den iberiske halvøy tilbyr et variert landskap som resulterer i et stort utvalg turmuligheter. Erasmus arrangerer en rekke utflukter både innen- og utenlands til en rimelig penge.
 
 <p align="center">
-  <img src="/images/barcelona2017/4.pgn" width="400">
- <br><em>Fikk endelig sett MSN Messi, Suarez og Paulinho!</em> 
+  <img src="/images/barcelona2017/4.png" width="400">
+  <br><em>Fikk endelig sett <span style="text-decoration: line-through;">MSN</span> Messi, Suarez og Paulinho!</em> 
 </p>
 
 I tillegg er det kun din egen fantasi og initiativ som setter grenser for hvor man kan reise. Vi tok for eksempel toget til til en liten landsby nær grensen til Frankrike og bodde hjemme hos en person via Airbnb, for så å gå i mektige Pyrineene dagen etterpå, et aldri så lite eventyr!
 
 <p align="center">
-  <img src="/images/barcelona2017/5.png" width="400">
+  <img src="/images/barcelona2017/5.png" width="400"><br>
   <img src="/images/barcelona2017/6.png" width="400">
  <br><em>Kødder på fjellgrensen til Frankrike.</em> 
 </p>
