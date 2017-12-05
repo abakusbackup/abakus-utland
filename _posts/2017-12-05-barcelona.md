@@ -75,8 +75,6 @@ Videre arrangeres det fester stort sett hele tiden, der hver dag har sitt eget t
   <br><em>Søndagsturen gikk denne gangen til Montserrat.</em> 
 </p>
 
-
-
 ###Hverdagen ellers
 Spania er ineffektivitetens land, der alt er nødt ta mye lenger tid enn nødvendig. Hvis man har sett Zootopia er dovendyrene bak kassen en meget god representasjon på den spanske arbeidsmoralen, selvsagt uten unntak. I kantinen på universitetet der man i utgangspunktet forventer å få kjøpt lunsj har de blant annet siesta fra 12-14. Ironisk nok er Catalonias selværklærte produktivitet et av hovedargumentene deres for frigjørelse.
 
