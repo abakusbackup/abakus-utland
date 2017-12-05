@@ -18,11 +18,6 @@ Hei bloggen! Målfrid Henden Aaraas og Aksel Vincent Berg fra henholdsvis 3. Dat
 I løpet av det siste halvåret har mediers søkelys vært rettet mot den katalanske regionshovedstaden. Byen ble i august rammet av et terrorangrep, men det er først og fremst uavhengighetsvissvasset som i senere tid har hatt hovedfokus. Er det noe spanjolene (katalanerne(?)) kan er det å samle den gemene hop for å demonstrere. Det gikk faktisk så langt at blant annet tyske myndigheter frarådet å reise hit. For vår del har ikke dette påvirket hverdagen i større grad enn et par ekstra fridager som ble tatt imot med åpne armer. 
 
 <p align="center">
-  <img src="/images/barcelona2017/1.png" width="600">
- <br><em>Målfrid til høyre, Aksel i midten.</em>
-</p>
-
-<p align="center">
   <img src="/images/barcelona2017/2.png" width="400"><br>
  <br><em>Nasjonaldagen til Catalonia, 11. September, som visstnok samlet 1 million mennesker.</em> 
 </p>
